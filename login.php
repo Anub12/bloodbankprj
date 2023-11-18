@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <title>Login to Blood Bank Management System</title>
     <link rel="stylesheet" type="text/css" href="style.css">
@@ -45,7 +44,4 @@
         </body>
     </table>
 </center>
-
-
-
 </html>
